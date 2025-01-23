@@ -19,6 +19,8 @@ O projeto utiliza as seguintes bibliotecas padrão da linguagem C:
 - `sys/socket.h`: Para criação e gerenciamento de sockets.
 - `errno.h`: Para tratamento de erros.
 
+![image](https://github.com/user-attachments/assets/11301186-d20c-4731-806c-50f49f11df40)
+
 ## 🚀 Como Usar
 
 ### Pré-requisitos
@@ -30,5 +32,4 @@ Para compilar o programa, execute o comando abaixo no terminal:
 ```bash
 gcc -o portscan portscan.c
 
-![image](https://github.com/user-attachments/assets/7af17dbd-42f8-49c0-83ef-7f2c2836f913)
 
