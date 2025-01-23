@@ -1,4 +1,4 @@
-# PortScan - Escaneador de Portas em C
+# PortScan: Escaneador de Portas em C
 
 Este projeto é um escaneador de portas simples, desenvolvido em linguagem C, que verifica portas abertas em um IP alvo. Ele também tenta identificar serviços básicos e realizar uma análise simples de vulnerabilidades com base nas portas abertas.
 
